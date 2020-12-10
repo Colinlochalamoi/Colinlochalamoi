@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, my name is Colin 👋
 
-<!--
-**Colinlochalamoi/Colinlochalamoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- --- About Me --- -->
+I'm currently working as a back-end intern on the Shopify Media team & pursuing my B.C.S Honours at Carleton University as part of the Dev Degree program. I love learning new languages and playing sports on my free time ⚽️ 🏀 🏃🏾‍♂️
+### About Me ###
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on VideoBin (Shopify internal app)
+- 🌱 I’m currently learning Ruby on rails & Python Django
+- 👯 I’m looking to collaborate on anything and everything 😀
+- 🤔 I’m looking for help with taking my personal projects into live production(Heroku?, FireBase? , Docker? 🤷🏾‍♂️)
+- 💬 Ask me about Soccer!!!⚽️
+- 📫 How to reach me: colin.lochalamoi@shopify.com(Work) || lochalamoicolin83@gmail.com(Personal)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I know how to solve a rubkis cube under a minute 🧩
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Colin's github stats](https://github-readme-stats.vercel.app/api?username=Colinlochalamoi&theme=white-green)](https://github.com/anuraghazra/github-readme-stats)
+<!-- --- Social Icons --- -->
+[![Github](https://img.shields.io/badge/Github-lightgrey?style=flat&logo=Github&logoColor=white&link=https://github.com/Colinlochalamoi)](https://github.com/Colinlochalamoi)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FColin03912270)](https://twitter.com/Colin03912270/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olin-lochalamoi/)](https://www.linkedin.com/in/colin-lochalamoi-86a473198/) 
