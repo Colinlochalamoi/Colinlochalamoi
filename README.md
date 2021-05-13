@@ -1,11 +1,11 @@
 ### Hi there, my name is Colin 👋
 
 <!-- --- About Me --- -->
-I'm currently working as a back-end intern on the Shopify Media team & pursuing my B.C.S Honours at Carleton University as part of the Dev Degree program. I love learning new languages and playing sports on my free time ⚽️ 🏀 🏃🏾‍♂️
+I'm currently working as a back-end Application security intern on the Shopify Proactive security team & pursuing my B.C.S Honours at Carleton University as part of the [Dev Degree](https://devdegree.ca/) program. I love learning new languages and playing sports on my free time ⚽️ 🏀 🏃🏾‍♂️
 ### About Me ###
 
-- 🔭 I’m currently working on VideoBin (Shopify internal app)
-- 🌱 I’m currently learning Ruby on rails & Python Django
+<!-- - 🔭 I’m currently working on VideoBin (Shopify internal app)-->
+- 🌱 I’m currently learning Ruby on rails, Python Django & React 
 - 👯 I’m looking to collaborate on anything and everything 😀
 - 🤔 I’m looking for help with taking my personal projects into live production(Heroku?, FireBase? , Docker? 🤷🏾‍♂️)
 - 💬 Ask me about Soccer!!!⚽️
